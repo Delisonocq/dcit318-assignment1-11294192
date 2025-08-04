@@ -1,0 +1,14 @@
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net6.0\TriangleTypeIdentifier.exe
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net6.0\TriangleTypeIdentifier.deps.json
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net6.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net6.0\TriangleTypeIdentifier.dll
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net6.0\TriangleTypeIdentifier.pdb
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\TriangleTypeIdentifier.dll
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\refint\TriangleTypeIdentifier.dll
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\TriangleTypeIdentifier.pdb
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\Delison Ocquayefio\RiderProjects\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net6.0\ref\TriangleTypeIdentifier.dll
